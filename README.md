@@ -1,12 +1,1 @@
-### Hi there 👋
-
-I'm motoki317, or motoki1, a member from [Digital Creators Club traP](https://trap.jp).
-🌱 I'm currently learning computer science in [Tokyo Institute of Technology](https://educ.titech.ac.jp/cs/eng/).
-
-My Portfolio: https://toki317.dev/
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=motoki317)](https://github.com/ryo-ma/github-profile-trophy)
-
-![motoki317's github stats](https://github-readme-stats.vercel.app/api?username=motoki317&show_icons=true&count_private=true&line_height=40&theme=vue-dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motoki317&hide=html,Makefile&layout=compact)
+![Metrics](https://metrics.lecoq.io/motoki317?template=classic&isocalendar=1&stars=1&repositories=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&stars=false&stars.limit=4&repositories=false&repositories.pinned=6&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Etc%2FGMT-9)
