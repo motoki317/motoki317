@@ -1,3 +1,5 @@
-Below are my GitHub metrics in [lowlighter/metrics](https://github.com/lowlighter/metrics) (takes time to load).
+![Profile details](profile-summary-card-output/tokyonight/0-profile-details.svg)
 
-![Metrics](https://lowlighter-metrics.toki317.dev/motoki317?template=classic&isocalendar=1&stars=1&repositories=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&stars=false&stars.limit=4&repositories=false&repositories.pinned=6&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Etc%2FGMT-9)
+![Top languages by repo](profile-summary-card-output/tokyonight/1-repos-per-language.svg) ![Top languages by commit](profile-summary-card-output/tokyonight/2-most-commit-language.svg)
+
+![Stats](profile-summary-card-output/tokyonight/3-stats.svg) ![Commits per hour](profile-summary-card-output/tokyonight/4-productive-time.svg)
